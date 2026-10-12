@@ -1,0 +1,8 @@
+version: 1.4.0
+files:
+  - url: RinaClinic-Setup-1.4.0.exe
+    sha512: CTxFrlccEuKA87M+w3S3G+pxO+mH4x8N/KuqPQeKAwm2dzwMUollu91gd3nOVkK2LxMfLYlZwmPoS+w0j1t/0g==
+    size: 82451555
+path: RinaClinic-Setup-1.4.0.exe
+sha512: CTxFrlccEuKA87M+w3S3G+pxO+mH4x8N/KuqPQeKAwm2dzwMUollu91gd3nOVkK2LxMfLYlZwmPoS+w0j1t/0g==
+releaseDate: '2026-10-12T12:51:50.617Z'
